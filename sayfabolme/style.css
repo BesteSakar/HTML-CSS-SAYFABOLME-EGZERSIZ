@@ -1,0 +1,39 @@
+.sayfabolme{
+    
+    width: 100%;
+    height: 100vh;
+}
+.ust{
+    width: 100%;
+
+    background-color:blue;
+    height: 50%;
+}
+
+.sol{
+    background-color:red;
+    width: 50%;
+    height: 100%;
+    float: left;
+   
+
+}
+.orta{
+    background-color: orange;
+    width: 100%;
+    height: 400px; 
+    
+}
+
+.sag{
+    background-color: yellow;
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+
+.alt{
+    background-color: #8f0;
+    width: 100%;
+    height: 100%;
+}
